@@ -1,0 +1,13 @@
+C:\MyWorkItems\Git\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.deps.json
+C:\MyWorkItems\Git\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.runtimeconfig.json
+C:\MyWorkItems\Git\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.runtimeconfig.dev.json
+C:\MyWorkItems\Git\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.dll
+C:\MyWorkItems\Git\CoreAPI\CoreAPI\bin\Debug\netcoreapp2.1\CoreAPI.pdb
+C:\MyWorkItems\Git\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.csproj.CoreCompileInputs.cache
+C:\MyWorkItems\Git\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.RazorAssemblyInfo.cache
+C:\MyWorkItems\Git\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.RazorAssemblyInfo.cs
+C:\MyWorkItems\Git\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.AssemblyInfoInputs.cache
+C:\MyWorkItems\Git\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.AssemblyInfo.cs
+C:\MyWorkItems\Git\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.RazorTargetAssemblyInfo.cache
+C:\MyWorkItems\Git\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.dll
+C:\MyWorkItems\Git\CoreAPI\CoreAPI\obj\Debug\netcoreapp2.1\CoreAPI.pdb
